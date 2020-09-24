@@ -14,7 +14,7 @@ body{
   width: 1180px;
   max-width: 100%;
   margin: 0 auto;
-  background-color: orange;
+  /* background-color: orange; */
 }
 
 .container::after{
