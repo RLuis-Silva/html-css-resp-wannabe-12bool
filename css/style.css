@@ -19,7 +19,6 @@ body {
 /* utilities */
 .box{
   float: left;
-  background-color: lightblue;
 }
 
 .box {
@@ -28,7 +27,7 @@ body {
 
 /* MAIN */
 .background_grey{
-  background-color: grey;
+  background-color: #f9f9f9;
 }
 
 main .perche{
@@ -37,4 +36,11 @@ main .perche{
 
 hr{
   margin-top: 25px;
+}
+
+.perche .container .box img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 10px;
+  height: 200px;
 }
