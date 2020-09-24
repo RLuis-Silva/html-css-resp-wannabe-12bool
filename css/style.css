@@ -4,6 +4,14 @@ img{
   height: 100px;
 }
 
+h1, h2, h3 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+body {
+  text-align: center;
+}
 
 /* tipografia */
 
@@ -14,12 +22,19 @@ img{
   background-color: lightblue;
 }
 
+.box {
+  padding: 20px;
+}
 
+/* MAIN */
 .background_grey{
   background-color: grey;
 }
 
-
 main .perche{
   margin-top: 50px;
+}
+
+hr{
+  margin-top: 25px;
 }
