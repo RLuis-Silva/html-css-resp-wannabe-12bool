@@ -4,11 +4,17 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: violet;
+}
+
+
 /* container */
 .container{
   width: 1180px;
   max-width: 100%;
   margin: 0 auto;
+  background-color: orange;
 }
 
 .container::after{
